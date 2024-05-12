@@ -1,0 +1,154 @@
+﻿id,patient_id,localization,size,tobacco_use,alcohol_consumption,sun_exposure,gender,age_group,diagnosis
+0,72,Gingiva,4.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+1,63,Gingiva,0.7,Not informed,Not informed,Not informed,F,2,Leukoplakia
+2,10,Palate,1.5,Former,No,No,M,2,OSCC
+3,48,Tongue,2,Yes,No,No,M,2,OSCC
+4,39,Tongue,2.5,Yes,Former,Yes,M,1,OSCC
+5,81,Lip,1.5,Former,Yes,Yes,F,2,OSCC
+6,78,Tongue,0.4,No,Yes,No,F,1,Leukoplakia
+7,55,Tongue,2,Not informed,Not informed,Not informed,F,1,Leukoplakia
+8,14,Floor of mouth,3,Yes,Former,No,M,1,OSCC
+9,52,Tongue,0,Not informed,Not informed,Not informed,M,2,Leukoplakia
+10,24,Buccal mucosa,6,Not informed,Not informed,Not informed,F,2,Leukoplakia
+11,82,Buccal mucosa,4.5,Not informed,Not informed,Not informed,M,2,Leukoplakia
+12,10,Palate,1.5,Former,No,No,M,2,OSCC
+13,67,Gingiva,1.5,Yes,No,Yes,M,0,Leukoplakia
+14,14,Floor of mouth,3,Yes,Former,No,M,1,OSCC
+15,92,Floor of mouth,0,Yes,No,No,M,2,OSCC
+16,20,Gingiva,2,Former,No,No,F,2,Leukoplakia
+17,52,Tongue,0,Not informed,Not informed,Not informed,M,2,Leukoplakia
+18,20,Gingiva,2,Former,No,No,F,2,Leukoplakia
+19,63,Gingiva,0.7,Not informed,Not informed,Not informed,F,2,Leukoplakia
+20,55,Tongue,2,Not informed,Not informed,Not informed,F,1,Leukoplakia
+21,71,Lip,0.3,No,No,Yes,M,2,OSCC
+22,90,Buccal mucosa,0.2,Yes,Yes,Yes,F,2,Leukoplakia
+23,31,Tongue,1,Not informed,Not informed,Not informed,F,2,OSCC
+24,90,Buccal mucosa,0.2,Yes,Yes,Yes,F,2,Leukoplakia
+25,78,Tongue,0.4,No,Yes,No,F,1,Leukoplakia
+26,24,Buccal mucosa,6,Not informed,Not informed,Not informed,F,2,Leukoplakia
+27,51,Lip,1.5,Not informed,Not informed,Not informed,F,2,Leukoplakia
+28,13,Buccal mucosa,0,Yes,Yes,Not informed,F,1,Leukoplakia
+29,63,Gingiva,0.7,Not informed,Not informed,Not informed,F,2,Leukoplakia
+30,13,Buccal mucosa,0,Yes,Yes,Not informed,F,1,Leukoplakia
+31,25,Gingiva,0.3,Yes,No,No,F,2,Leukoplakia
+32,67,Gingiva,1.5,Yes,No,Yes,M,0,Leukoplakia
+33,60,Tongue,0.1,Not informed,Not informed,Not informed,F,1,OSCC
+34,28,Floor of mouth,3.5,Yes,Former,Yes,M,2,OSCC
+35,22,Tongue,2,No,Yes,No,M,2,OSCC
+36,78,Tongue,0.4,No,Yes,No,F,1,Leukoplakia
+37,22,Tongue,2,No,Yes,No,M,2,OSCC
+38,72,Gingiva,4.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+39,67,Gingiva,1.5,Yes,No,Yes,M,0,Leukoplakia
+40,28,Floor of mouth,3.5,Yes,Former,Yes,M,2,OSCC
+41,60,Tongue,0.1,Not informed,Not informed,Not informed,F,1,OSCC
+42,28,Floor of mouth,3.5,Yes,Former,Yes,M,2,OSCC
+43,27,Lip,0,Yes,Former,Yes,M,1,Leukoplakia
+44,71,Lip,0.3,No,No,Yes,M,2,OSCC
+45,40,Tongue,1,Not informed,Not informed,Not informed,M,1,Leukoplakia
+46,18,Gingiva,3,Former,Former,No,M,2,OSCC
+47,40,Tongue,1,Not informed,Not informed,Not informed,M,1,Leukoplakia
+48,6,Gingiva,3.2,Not informed,Not informed,Not informed,F,2,Leukoplakia
+49,25,Gingiva,0.3,Yes,No,No,F,2,Leukoplakia
+50,60,Tongue,0.1,Not informed,Not informed,Not informed,F,1,OSCC
+51,25,Gingiva,0.3,Yes,No,No,F,2,Leukoplakia
+52,16,Tongue,0.1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+53,82,Buccal mucosa,4.5,Not informed,Not informed,Not informed,M,2,Leukoplakia
+54,16,Tongue,0.1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+55,28,Floor of mouth,3.5,Yes,Former,Yes,M,2,OSCC
+56,77,Floor of mouth,1,Not informed,Not informed,Not informed,M,1,OSCC
+57,68,Tongue,1,Not informed,Not informed,Not informed,M,2,OSCC
+58,6,Gingiva,3.2,Not informed,Not informed,Not informed,F,2,Leukoplakia
+59,89,Gingiva,0,No,No,Yes,M,0,Leukoplakia
+60,72,Gingiva,4.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+61,27,Lip,0,Yes,Former,Yes,M,1,Leukoplakia
+62,58,Tongue,2,No,No,No,F,2,OSCC
+63,10,Palate,1.5,Former,No,No,M,2,OSCC
+64,58,Tongue,2,No,No,No,F,2,OSCC
+65,56,Buccal mucosa,2,Yes,No,Yes,F,1,Leukoplakia
+66,53,Tongue,5,Not informed,Not informed,Not informed,M,2,OSCC
+67,81,Lip,1.5,Former,Yes,Yes,F,2,OSCC
+68,53,Tongue,5,Not informed,Not informed,Not informed,M,2,OSCC
+69,16,Tongue,0.1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+70,68,Tongue,1,Not informed,Not informed,Not informed,M,2,OSCC
+71,53,Tongue,5,Not informed,Not informed,Not informed,M,2,OSCC
+72,56,Buccal mucosa,2,Yes,No,Yes,F,1,Leukoplakia
+73,1,Gingiva,1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+74,79,Tongue,3,Not informed,Not informed,Not informed,F,1,OSCC
+75,1,Gingiva,1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+76,25,Gingiva,0.3,Yes,No,No,F,2,Leukoplakia
+77,45,Buccal mucosa,1.5,Yes,No,No,M,1,Leukoplakia
+78,79,Tongue,3,Not informed,Not informed,Not informed,F,1,OSCC
+79,43,Floor of mouth,2,Yes,No,Yes,M,1,OSCC
+80,1,Gingiva,1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+81,77,Floor of mouth,1,Not informed,Not informed,Not informed,M,1,OSCC
+82,43,Floor of mouth,2,Yes,No,Yes,M,1,OSCC
+83,79,Tongue,3,Not informed,Not informed,Not informed,F,1,OSCC
+84,58,Tongue,2,No,No,No,F,2,OSCC
+85,79,Tongue,3,Not informed,Not informed,Not informed,F,1,OSCC
+86,62,Gingiva,0.1,Not informed,Not informed,Not informed,F,2,Leukoplakia
+87,162,Palate,1.5,Not informed,Not informed,Not informed,M,2,OSCC
+88,62,Gingiva,0.1,Not informed,Not informed,Not informed,F,2,Leukoplakia
+89,21,Gingiva,0.8,No,No,No,F,2,Leukoplakia
+90,45,Buccal mucosa,1.5,Yes,No,No,M,1,Leukoplakia
+91,21,Gingiva,0.8,No,No,No,F,2,Leukoplakia
+92,31,Tongue,1,Not informed,Not informed,Not informed,F,2,OSCC
+93,21,Gingiva,0.8,No,No,No,F,2,Leukoplakia
+94,45,Buccal mucosa,1.5,Yes,No,No,M,1,Leukoplakia
+95,29,Tongue,1,Not informed,Not informed,Not informed,M,1,Leukoplakia
+96,74,Gingiva,0.5,Not informed,Not informed,Not informed,M,2,Leukoplakia
+97,1,Gingiva,1,Not informed,Not informed,Not informed,F,1,Leukoplakia
+98,88,Lip,2,Not informed,Not informed,Not informed,F,1,Leukoplakia
+99,84,Tongue,0.4,Not informed,Not informed,Not informed,M,2,OSCC
+100,0,Tongue,0.3,Not informed,Not informed,Not informed,F,1,Leukoplakia
+101,30,Tongue,3,Yes,Yes,No,F,1,Leukoplakia
+102,36,Gingiva,3,Not informed,Not informed,Not informed,M,2,OSCC
+103,30,Tongue,3,Yes,Yes,No,F,1,Leukoplakia
+104,49,Tongue,1.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+105,29,Tongue,1,Not informed,Not informed,Not informed,M,1,Leukoplakia
+106,49,Tongue,1.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+107,11,Floor of mouth,5,Yes,Former,Yes,M,1,OSCC
+108,34,Tongue,2.5,No,No,No,F,0,OSCC
+109,80,Lip,1,No,Former,No,M,2,Leukoplakia
+110,66,Palate,3,Yes,No,Yes,F,2,Leukoplakia
+111,83,Floor of mouth,0,Not informed,Not informed,Not informed,M,2,OSCC
+112,24,Buccal mucosa,2,Not informed,Not informed,Not informed,F,2,Leukoplakia
+113,34,Tongue,2.5,No,No,No,F,0,OSCC
+114,85,Tongue,0.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+115,12,Lip,2,Not informed,Not informed,Not informed,M,2,Leukoplakia
+116,54,Lip,1.5,Yes,Former,No,M,1,Leukoplakia
+117,36,Gingiva,3,Not informed,Not informed,Not informed,M,2,OSCC
+118,92,Floor of mouth,0,Yes,No,No,M,2,OSCC
+119,30,Tongue,3,Yes,Yes,No,F,1,Leukoplakia
+120,36,Gingiva,3,Not informed,Not informed,Not informed,M,2,OSCC
+121,65,Buccal mucosa,1.5,No,Yes,No,M,2,Leukoplakia
+122,69,Buccal mucosa,2,Not informed,Not informed,Not informed,F,1,Leukoplakia
+123,11,Floor of mouth,5,Yes,Former,Yes,M,1,OSCC
+124,69,Buccal mucosa,2,Not informed,Not informed,Not informed,F,1,Leukoplakia
+125,12,Lip,2,Not informed,Not informed,Not informed,M,2,Leukoplakia
+126,50,Gingiva,3,Not informed,Not informed,Not informed,F,0,Leukoplakia
+127,163,Floor of mouth,0.5,Not informed,Not informed,Not informed,F,1,Leukoplakia
+128,18,Gingiva,3,Former,Former,No,M,2,OSCC
+129,165,Tongue,1.2,No,No,No,M,0,Leukoplakia
+130,18,Gingiva,3,Former,Former,No,M,2,OSCC
+131,92,Floor of mouth,0,Yes,No,No,M,2,OSCC
+132,35,Palate,0.3,Not informed,Not informed,Not informed,M,1,Leukoplakia
+133,164,Tongue,1.4,Not informed,Not informed,Not informed,F,1,OSCC
+134,35,Palate,0.3,Not informed,Not informed,Not informed,M,1,Leukoplakia
+135,108,Gingiva,1.5,Not informed,Not informed,Not informed,F,2,Leukoplakia
+136,14,Floor of mouth,3,Yes,Former,No,M,1,OSCC
+137,108,Gingiva,1.5,Not informed,Not informed,Not informed,F,2,Leukoplakia
+138,160,Tongue,1.5,Yes,Yes,Not informed,M,1,OSCC
+139,39,Tongue,2.5,Yes,Former,Yes,M,1,OSCC
+140,160,Tongue,1.5,Yes,Yes,Not informed,M,1,OSCC
+141,56,Buccal mucosa,2,Yes,No,Yes,F,1,Leukoplakia
+142,161,Tongue,5,Yes,Yes,No,M,1,OSCC
+143,36,Gingiva,3,Not informed,Not informed,Not informed,M,2,OSCC
+144,162,Palate,1.5,Not informed,Not informed,Not informed,M,2,OSCC
+145,85,Tongue,0.5,Not informed,Not informed,Not informed,M,1,Leukoplakia
+146,31,Tongue,1.2,Not informed,Not informed,Not informed,F,2,OSCC
+147,163,Floor of mouth,0.5,Not informed,Not informed,Not informed,F,1,Leukoplakia
+148,82,Buccal mucosa,4.5,Not informed,Not informed,Not informed,M,2,Leukoplakia
+149,165,Tongue,1.2,No,No,No,M,0,Leukoplakia
+150,31,Tongue,1.2,Not informed,Not informed,Not informed,F,2,OSCC
+151,183,Tongue,1,No,No,Not informed,M,1,Leukoplakia
+152,48,Tongue,2,Yes,No,No,M,2,OSCC
